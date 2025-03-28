@@ -6,7 +6,7 @@ The Mathematica notebook DEF_Jordan_Public.nb contains the calculation of asympt
 
 Also, cite the Github repository using the instructions given in the notebook.
 
-Equation numbers in the notebook refer to the accompanying paper arXiv:XX [to be updated], unless otherwise specified.
+Equation numbers in the notebook refer to the accompanying paper arXiv:2501.07488, unless otherwise specified.
 
 The notebook makes use of the xAct packages of Mathematica.
 
